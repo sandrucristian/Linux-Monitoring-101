@@ -78,3 +78,7 @@ df -h
 
 A tool to create, resize, move, and copy partitions. Invoke it with sudo parted followed by disk operations commands.
 
+![MarketingWorkGIF](https://github.com/sandrucristian/Linux-Monitoring-101/assets/149951695/52056440-0be3-4342-bb4a-9a2f5dec4763)
+![PenguinSelfCareGIF](https://github.com/sandrucristian/Linux-Monitoring-101/assets/149951695/87630193-0151-411a-9e87-dc10a8a0d68b)
+
+
