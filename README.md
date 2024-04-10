@@ -2,6 +2,12 @@
 
 Now we will have to use tools or programs to monitor and gather information about the status of the linux operating system!
 
+The most important and first thing is to check who is connected to the server, to know how many users are online, to know where they connected to the server, to check the log files in the folder:
+```
+cd /var/log/
+```
+then let's check which processes or programs are taking up memory and if a program is running that is not necessary, remove it to free up resources.
+
 ### TOP
 
 With **top** we can see in real time summary information about the operating system.
@@ -12,6 +18,10 @@ In the terminal we can enter the following command to start
 top
 ````
 ![top](assets/p1-top.png)
+or
+```
+ps aux | less
+```
 
 ### W
 
