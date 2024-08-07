@@ -5,10 +5,6 @@
 nmap -sN 192.168.1.10
 ```
   
-Oftentimes, when I’m running around the country setting up Flow Analytics, 
-I don’t see Null Scans pop up. However, recently I’ve visited high-profile customers that are big targets for malicious behavior. 
-As we configure Cisco NetFlow on their routers and ASA firewalls, I’ve noticed FA alerting on these packets with no flags set.
-
 The Null Scan is a type of TCP scan that hackers — both ethical and malicious — use to identify listening TCP ports. In the right hands, 
 a Null Scan can help identify potential holes for server hardening, but in the wrong hands, it is a reconnaissance tool. It is a pre-attack probe.
 
