@@ -26,4 +26,8 @@ Information about which ports are open can be useful to hackers, as it will iden
 Cisco NetFlow packets contain a summary of the packets flowing through an interface including TCP flags, or in this case, not set. 
 Cisco NetFlow coupled with a behavior analysis tool can help identify when Null Scans are occurring on your network.
 
+Reference
+
+https://www.plixer.com/blog/the-null-scan-youre-being-watched/#:~:text=A%20Null%20Scan%20is%20a,doesn't%20contain%20a%20flag.
+
 ![AdminsWatchingGIF](https://github.com/user-attachments/assets/5eed39fc-82fa-4310-9920-b819fb87c78e)
